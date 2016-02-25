@@ -1,0 +1,159 @@
+C:\Users\Raj\Desktop\POS\Point Of Sale\bin\Debug\Sales and Inventory System (Gadgets Shop).exe.config
+C:\Users\Raj\Desktop\POS\Point Of Sale\obj\Debug\Sales and Inventory System (Gadgets Shop).exe
+C:\Users\Raj\Desktop\POS\Point Of Sale\obj\Debug\Sales and Inventory System (Gadgets Shop).pdb
+C:\Users\Raj\Desktop\POS\Point Of Sale\obj\Debug\POS.csprojResolveAssemblyReference.cache
+C:\Users\Raj\Desktop\POS\Point Of Sale\obj\Debug\Sales_and_Inventory_System__Gadgets_Shop_.frmAbout.resources
+C:\Users\Raj\Desktop\POS\Point Of Sale\obj\Debug\Sales_and_Inventory_System__Gadgets_Shop_.frmOrder.resources
+C:\Users\Raj\Desktop\POS\Point Of Sale\obj\Debug\Sales_and_Inventory_System__Gadgets_Shop_.frmCategory.resources
+C:\Users\Raj\Desktop\POS\Point Of Sale\obj\Debug\Sales_and_Inventory_System__Gadgets_Shop_.frmCategoryRecord.resources
+C:\Users\Raj\Desktop\POS\Point Of Sale\obj\Debug\Sales_and_Inventory_System__Gadgets_Shop_.frmChangePassword.resources
+C:\Users\Raj\Desktop\POS\Point Of Sale\obj\Debug\Sales_and_Inventory_System__Gadgets_Shop_.frmCustomers.resources
+C:\Users\Raj\Desktop\POS\Point Of Sale\obj\Debug\Sales_and_Inventory_System__Gadgets_Shop_.frmStockRecord.resources
+C:\Users\Raj\Desktop\POS\Point Of Sale\obj\Debug\Sales_and_Inventory_System__Gadgets_Shop_.frmStockReport.resources
+C:\Users\Raj\Desktop\POS\Point Of Sale\obj\Debug\Sales_and_Inventory_System__Gadgets_Shop_.frmSuppliersRecord.resources
+C:\Users\Raj\Desktop\POS\Point Of Sale\obj\Debug\Sales_and_Inventory_System__Gadgets_Shop_.frmSuppliersRecord1.resources
+C:\Users\Raj\Desktop\POS\Point Of Sale\obj\Debug\Sales_and_Inventory_System__Gadgets_Shop_.frmProductsRecord.resources
+C:\Users\Raj\Desktop\POS\Point Of Sale\obj\Debug\Sales_and_Inventory_System__Gadgets_Shop_.frmProductsRecord1.resources
+C:\Users\Raj\Desktop\POS\Point Of Sale\obj\Debug\Sales_and_Inventory_System__Gadgets_Shop_.frmSubCategory.resources
+C:\Users\Raj\Desktop\POS\Point Of Sale\obj\Debug\Sales_and_Inventory_System__Gadgets_Shop_.frmSubCategoryRecord.resources
+C:\Users\Raj\Desktop\POS\Point Of Sale\obj\Debug\Sales_and_Inventory_System__Gadgets_Shop_.frmSuppliers.resources
+C:\Users\Raj\Desktop\POS\Point Of Sale\obj\Debug\Sales_and_Inventory_System__Gadgets_Shop_.frmCustomersRecord.resources
+C:\Users\Raj\Desktop\POS\Point Of Sale\obj\Debug\Sales_and_Inventory_System__Gadgets_Shop_.frmCustomersRecord1.resources
+C:\Users\Raj\Desktop\POS\Point Of Sale\obj\Debug\Sales_and_Inventory_System__Gadgets_Shop_.frmCustomersRecord2.resources
+C:\Users\Raj\Desktop\POS\Point Of Sale\obj\Debug\Sales_and_Inventory_System__Gadgets_Shop_.frmCustomersReport.resources
+C:\Users\Raj\Desktop\POS\Point Of Sale\obj\Debug\Sales_and_Inventory_System__Gadgets_Shop_.frmInvoiceReport.resources
+C:\Users\Raj\Desktop\POS\Point Of Sale\obj\Debug\Sales_and_Inventory_System__Gadgets_Shop_.frmLogin.resources
+C:\Users\Raj\Desktop\POS\Point Of Sale\obj\Debug\Sales_and_Inventory_System__Gadgets_Shop_.frmLoginDetails.resources
+C:\Users\Raj\Desktop\POS\Point Of Sale\obj\Debug\Sales_and_Inventory_System__Gadgets_Shop_.frmMainMenu.resources
+C:\Users\Raj\Desktop\POS\Point Of Sale\obj\Debug\Sales_and_Inventory_System__Gadgets_Shop_.frmProduct.resources
+C:\Users\Raj\Desktop\POS\Point Of Sale\obj\Debug\Sales_and_Inventory_System__Gadgets_Shop_.frmProductsRecord2.resources
+C:\Users\Raj\Desktop\POS\Point Of Sale\obj\Debug\Sales_and_Inventory_System__Gadgets_Shop_.frmRecoveryPassword.resources
+C:\Users\Raj\Desktop\POS\Point Of Sale\obj\Debug\Sales_and_Inventory_System__Gadgets_Shop_.frmRegisteredUsersDetails.resources
+C:\Users\Raj\Desktop\POS\Point Of Sale\obj\Debug\Sales_and_Inventory_System__Gadgets_Shop_.frmSales.resources
+C:\Users\Raj\Desktop\POS\Point Of Sale\obj\Debug\Sales_and_Inventory_System__Gadgets_Shop_.frmSalesRecord1.resources
+C:\Users\Raj\Desktop\POS\Point Of Sale\obj\Debug\Sales_and_Inventory_System__Gadgets_Shop_.frmSalesReport.resources
+C:\Users\Raj\Desktop\POS\Point Of Sale\obj\Debug\Sales_and_Inventory_System__Gadgets_Shop_.frmSplash.resources
+C:\Users\Raj\Desktop\POS\Point Of Sale\obj\Debug\Sales_and_Inventory_System__Gadgets_Shop_.frmStock.resources
+C:\Users\Raj\Desktop\POS\Point Of Sale\obj\Debug\Sales_and_Inventory_System__Gadgets_Shop_.frmStockRecord1.resources
+C:\Users\Raj\Desktop\POS\Point Of Sale\obj\Debug\Sales_and_Inventory_System__Gadgets_Shop_.frmSuppliersReport.resources
+C:\Users\Raj\Desktop\POS\Point Of Sale\obj\Debug\Sales_and_Inventory_System__Gadgets_Shop_.frmRegistration.resources
+C:\Users\Raj\Desktop\POS\Point Of Sale\obj\Debug\Sales_and_Inventory_System__Gadgets_Shop_.frmCustomerRegistration.resources
+C:\Users\Raj\Desktop\POS\Point Of Sale\obj\Debug\Sales_and_Inventory_System__Gadgets_Shop_.Properties.Resources.resources
+C:\Users\Raj\Desktop\POS\Point Of Sale\obj\Debug\POS.csproj.GenerateResource.Cache
+C:\Users\Raj\Desktop\POS\Point Of Sale\bin\Debug\Sales and Inventory System (Gadgets Shop).exe
+C:\Users\Raj\Desktop\POS\Point Of Sale\bin\Debug\Sales and Inventory System (Gadgets Shop).pdb
+C:\Users\Raj\Desktop\POS\Point Of Sale\obj\Debug\Sales_and_Inventory_System__Gadgets_Shop_.frmCustomerMainMenu.resources
+C:\Users\Raj\Desktop\POS\Point Of Sale\obj\Debug\Sales_and_Inventory_System__Gadgets_Shop_.frmUpdateCustomerDetails.resources
+C:\Users\Raj\Desktop\POS\Point Of Sale\obj\Debug\Sales_and_Inventory_System__Gadgets_Shop_.frmCustomerProfileEntry.resources
+C:\Users\Raj\Desktop\POS\Point Of Sale\obj\Debug\Sales_and_Inventory_System__Gadgets_Shop_.frmUpdateProfile.resources
+C:\Users\Raj\Desktop\POS\Point Of Sale\obj\Debug\Sales_and_Inventory_System__Gadgets_Shop_.frmCustomerOrders.resources
+C:\Users\Raj\Desktop\POS\Point Of Sale\obj\Debug\Sales_and_Inventory_System__Gadgets_Shop_.frmSalesRecord2.resources
+C:\Users\Raj\Desktop\POS\Point Of Sale\obj\Debug\Sales_and_Inventory_System__Gadgets_Shop_.frmPlaceOrders.resources
+D:\Projects\POS\Point Of Sale\bin\Debug\Sales and Inventory System (Gadgets Shop).exe.config
+D:\Projects\POS\Point Of Sale\obj\Debug\Sales and Inventory System (Gadgets Shop).exe
+D:\Projects\POS\Point Of Sale\obj\Debug\Sales and Inventory System (Gadgets Shop).pdb
+D:\Projects\POS\Point Of Sale\bin\Debug\Sales and Inventory System (Gadgets Shop).exe
+D:\Projects\POS\Point Of Sale\bin\Debug\Sales and Inventory System (Gadgets Shop).pdb
+D:\Projects\POS\Point Of Sale\obj\Debug\POS.csprojResolveAssemblyReference.cache
+D:\Projects\POS\Point Of Sale\obj\Debug\Sales_and_Inventory_System__Gadgets_Shop_.frmAbout.resources
+D:\Projects\POS\Point Of Sale\obj\Debug\Sales_and_Inventory_System__Gadgets_Shop_.frmCustomerMainMenu.resources
+D:\Projects\POS\Point Of Sale\obj\Debug\Sales_and_Inventory_System__Gadgets_Shop_.frmCustomerProfileEntry.resources
+D:\Projects\POS\Point Of Sale\obj\Debug\Sales_and_Inventory_System__Gadgets_Shop_.frmCustomerOrders.resources
+D:\Projects\POS\Point Of Sale\obj\Debug\Sales_and_Inventory_System__Gadgets_Shop_.frmPlaceOrders.resources
+D:\Projects\POS\Point Of Sale\obj\Debug\Sales_and_Inventory_System__Gadgets_Shop_.frmUpdateProfile.resources
+D:\Projects\POS\Point Of Sale\obj\Debug\Sales_and_Inventory_System__Gadgets_Shop_.frmOrder.resources
+D:\Projects\POS\Point Of Sale\obj\Debug\Sales_and_Inventory_System__Gadgets_Shop_.frmCategory.resources
+D:\Projects\POS\Point Of Sale\obj\Debug\Sales_and_Inventory_System__Gadgets_Shop_.frmCategoryRecord.resources
+D:\Projects\POS\Point Of Sale\obj\Debug\Sales_and_Inventory_System__Gadgets_Shop_.frmChangePassword.resources
+D:\Projects\POS\Point Of Sale\obj\Debug\Sales_and_Inventory_System__Gadgets_Shop_.frmCustomers.resources
+D:\Projects\POS\Point Of Sale\obj\Debug\Sales_and_Inventory_System__Gadgets_Shop_.frmUpdateCustomerDetails.resources
+D:\Projects\POS\Point Of Sale\obj\Debug\Sales_and_Inventory_System__Gadgets_Shop_.frmSalesRecord2.resources
+D:\Projects\POS\Point Of Sale\obj\Debug\Sales_and_Inventory_System__Gadgets_Shop_.frmStockRecord.resources
+D:\Projects\POS\Point Of Sale\obj\Debug\Sales_and_Inventory_System__Gadgets_Shop_.frmStockReport.resources
+D:\Projects\POS\Point Of Sale\obj\Debug\Sales_and_Inventory_System__Gadgets_Shop_.frmSuppliersRecord.resources
+D:\Projects\POS\Point Of Sale\obj\Debug\Sales_and_Inventory_System__Gadgets_Shop_.frmSuppliersRecord1.resources
+D:\Projects\POS\Point Of Sale\obj\Debug\Sales_and_Inventory_System__Gadgets_Shop_.frmProductsRecord.resources
+D:\Projects\POS\Point Of Sale\obj\Debug\Sales_and_Inventory_System__Gadgets_Shop_.frmProductsRecord1.resources
+D:\Projects\POS\Point Of Sale\obj\Debug\Sales_and_Inventory_System__Gadgets_Shop_.frmSubCategory.resources
+D:\Projects\POS\Point Of Sale\obj\Debug\Sales_and_Inventory_System__Gadgets_Shop_.frmSubCategoryRecord.resources
+D:\Projects\POS\Point Of Sale\obj\Debug\Sales_and_Inventory_System__Gadgets_Shop_.frmSuppliers.resources
+D:\Projects\POS\Point Of Sale\obj\Debug\Sales_and_Inventory_System__Gadgets_Shop_.frmCustomersRecord.resources
+D:\Projects\POS\Point Of Sale\obj\Debug\Sales_and_Inventory_System__Gadgets_Shop_.frmCustomersRecord1.resources
+D:\Projects\POS\Point Of Sale\obj\Debug\Sales_and_Inventory_System__Gadgets_Shop_.frmCustomersRecord2.resources
+D:\Projects\POS\Point Of Sale\obj\Debug\Sales_and_Inventory_System__Gadgets_Shop_.frmCustomersReport.resources
+D:\Projects\POS\Point Of Sale\obj\Debug\Sales_and_Inventory_System__Gadgets_Shop_.frmInvoiceReport.resources
+D:\Projects\POS\Point Of Sale\obj\Debug\Sales_and_Inventory_System__Gadgets_Shop_.frmLogin.resources
+D:\Projects\POS\Point Of Sale\obj\Debug\Sales_and_Inventory_System__Gadgets_Shop_.frmLoginDetails.resources
+D:\Projects\POS\Point Of Sale\obj\Debug\Sales_and_Inventory_System__Gadgets_Shop_.frmMainMenu.resources
+D:\Projects\POS\Point Of Sale\obj\Debug\Sales_and_Inventory_System__Gadgets_Shop_.frmProduct.resources
+D:\Projects\POS\Point Of Sale\obj\Debug\Sales_and_Inventory_System__Gadgets_Shop_.frmProductsRecord2.resources
+D:\Projects\POS\Point Of Sale\obj\Debug\Sales_and_Inventory_System__Gadgets_Shop_.frmRecoveryPassword.resources
+D:\Projects\POS\Point Of Sale\obj\Debug\Sales_and_Inventory_System__Gadgets_Shop_.frmRegisteredUsersDetails.resources
+D:\Projects\POS\Point Of Sale\obj\Debug\Sales_and_Inventory_System__Gadgets_Shop_.frmSales.resources
+D:\Projects\POS\Point Of Sale\obj\Debug\Sales_and_Inventory_System__Gadgets_Shop_.frmSalesRecord1.resources
+D:\Projects\POS\Point Of Sale\obj\Debug\Sales_and_Inventory_System__Gadgets_Shop_.frmSalesReport.resources
+D:\Projects\POS\Point Of Sale\obj\Debug\Sales_and_Inventory_System__Gadgets_Shop_.frmSplash.resources
+D:\Projects\POS\Point Of Sale\obj\Debug\Sales_and_Inventory_System__Gadgets_Shop_.frmStock.resources
+D:\Projects\POS\Point Of Sale\obj\Debug\Sales_and_Inventory_System__Gadgets_Shop_.frmStockRecord1.resources
+D:\Projects\POS\Point Of Sale\obj\Debug\Sales_and_Inventory_System__Gadgets_Shop_.frmSuppliersReport.resources
+D:\Projects\POS\Point Of Sale\obj\Debug\Sales_and_Inventory_System__Gadgets_Shop_.frmRegistration.resources
+D:\Projects\POS\Point Of Sale\obj\Debug\Sales_and_Inventory_System__Gadgets_Shop_.frmCustomerRegistration.resources
+D:\Projects\POS\Point Of Sale\obj\Debug\Sales_and_Inventory_System__Gadgets_Shop_.Properties.Resources.resources
+D:\Projects\POS\Point Of Sale\obj\Debug\POS.csproj.GenerateResource.Cache
+E:\Projects\POS\Point Of Sale\bin\Debug\Sales and Inventory System (Gadgets Shop).exe.config
+E:\Projects\POS\Point Of Sale\obj\Debug\Sales and Inventory System (Gadgets Shop).exe
+E:\Projects\POS\Point Of Sale\obj\Debug\Sales and Inventory System (Gadgets Shop).pdb
+C:\Users\home\Downloads\Compressed\pos_0\POS\Point Of Sale\bin\Debug\Sales and Inventory System (Gadgets Shop).exe.config
+C:\Users\home\Downloads\Compressed\pos_0\POS\Point Of Sale\obj\Debug\Sales and Inventory System (Gadgets Shop).exe
+C:\Users\home\Downloads\Compressed\pos_0\POS\Point Of Sale\obj\Debug\Sales and Inventory System (Gadgets Shop).pdb
+C:\Users\home\Downloads\Compressed\pos_0\POS\Point Of Sale\bin\Debug\Sales and Inventory System (Gadgets Shop).exe
+C:\Users\home\Downloads\Compressed\pos_0\POS\Point Of Sale\bin\Debug\Sales and Inventory System (Gadgets Shop).pdb
+C:\Users\home\Downloads\Compressed\pos_0\POS\Point Of Sale\obj\Debug\POS.csprojResolveAssemblyReference.cache
+C:\Users\home\Downloads\Compressed\pos_0\POS\Point Of Sale\obj\Debug\Sales_and_Inventory_System__Gadgets_Shop_.frmAbout.resources
+C:\Users\home\Downloads\Compressed\pos_0\POS\Point Of Sale\obj\Debug\Sales_and_Inventory_System__Gadgets_Shop_.frmCustomerMainMenu.resources
+C:\Users\home\Downloads\Compressed\pos_0\POS\Point Of Sale\obj\Debug\Sales_and_Inventory_System__Gadgets_Shop_.frmCustomerProfileEntry.resources
+C:\Users\home\Downloads\Compressed\pos_0\POS\Point Of Sale\obj\Debug\Sales_and_Inventory_System__Gadgets_Shop_.frmCustomerOrders.resources
+C:\Users\home\Downloads\Compressed\pos_0\POS\Point Of Sale\obj\Debug\Sales_and_Inventory_System__Gadgets_Shop_.frmPlaceOrders.resources
+C:\Users\home\Downloads\Compressed\pos_0\POS\Point Of Sale\obj\Debug\Sales_and_Inventory_System__Gadgets_Shop_.frmUpdateProfile.resources
+C:\Users\home\Downloads\Compressed\pos_0\POS\Point Of Sale\obj\Debug\Sales_and_Inventory_System__Gadgets_Shop_.frmOrder.resources
+C:\Users\home\Downloads\Compressed\pos_0\POS\Point Of Sale\obj\Debug\Sales_and_Inventory_System__Gadgets_Shop_.frmCategory.resources
+C:\Users\home\Downloads\Compressed\pos_0\POS\Point Of Sale\obj\Debug\Sales_and_Inventory_System__Gadgets_Shop_.frmCategoryRecord.resources
+C:\Users\home\Downloads\Compressed\pos_0\POS\Point Of Sale\obj\Debug\Sales_and_Inventory_System__Gadgets_Shop_.frmChangePassword.resources
+C:\Users\home\Downloads\Compressed\pos_0\POS\Point Of Sale\obj\Debug\Sales_and_Inventory_System__Gadgets_Shop_.frmCustomers.resources
+C:\Users\home\Downloads\Compressed\pos_0\POS\Point Of Sale\obj\Debug\Sales_and_Inventory_System__Gadgets_Shop_.frmUpdateCustomerDetails.resources
+C:\Users\home\Downloads\Compressed\pos_0\POS\Point Of Sale\obj\Debug\Sales_and_Inventory_System__Gadgets_Shop_.frmSalesRecord2.resources
+C:\Users\home\Downloads\Compressed\pos_0\POS\Point Of Sale\obj\Debug\Sales_and_Inventory_System__Gadgets_Shop_.frmStockRecord.resources
+C:\Users\home\Downloads\Compressed\pos_0\POS\Point Of Sale\obj\Debug\Sales_and_Inventory_System__Gadgets_Shop_.frmStockReport.resources
+C:\Users\home\Downloads\Compressed\pos_0\POS\Point Of Sale\obj\Debug\Sales_and_Inventory_System__Gadgets_Shop_.frmSuppliersRecord.resources
+C:\Users\home\Downloads\Compressed\pos_0\POS\Point Of Sale\obj\Debug\Sales_and_Inventory_System__Gadgets_Shop_.frmSuppliersRecord1.resources
+C:\Users\home\Downloads\Compressed\pos_0\POS\Point Of Sale\obj\Debug\Sales_and_Inventory_System__Gadgets_Shop_.frmProductsRecord.resources
+C:\Users\home\Downloads\Compressed\pos_0\POS\Point Of Sale\obj\Debug\Sales_and_Inventory_System__Gadgets_Shop_.frmProductsRecord1.resources
+C:\Users\home\Downloads\Compressed\pos_0\POS\Point Of Sale\obj\Debug\Sales_and_Inventory_System__Gadgets_Shop_.frmSubCategory.resources
+C:\Users\home\Downloads\Compressed\pos_0\POS\Point Of Sale\obj\Debug\Sales_and_Inventory_System__Gadgets_Shop_.frmSubCategoryRecord.resources
+C:\Users\home\Downloads\Compressed\pos_0\POS\Point Of Sale\obj\Debug\Sales_and_Inventory_System__Gadgets_Shop_.frmSuppliers.resources
+C:\Users\home\Downloads\Compressed\pos_0\POS\Point Of Sale\obj\Debug\Sales_and_Inventory_System__Gadgets_Shop_.frmCustomersRecord.resources
+C:\Users\home\Downloads\Compressed\pos_0\POS\Point Of Sale\obj\Debug\Sales_and_Inventory_System__Gadgets_Shop_.frmCustomersRecord1.resources
+C:\Users\home\Downloads\Compressed\pos_0\POS\Point Of Sale\obj\Debug\Sales_and_Inventory_System__Gadgets_Shop_.frmCustomersRecord2.resources
+C:\Users\home\Downloads\Compressed\pos_0\POS\Point Of Sale\obj\Debug\Sales_and_Inventory_System__Gadgets_Shop_.frmCustomersReport.resources
+C:\Users\home\Downloads\Compressed\pos_0\POS\Point Of Sale\obj\Debug\Sales_and_Inventory_System__Gadgets_Shop_.frmInvoiceReport.resources
+C:\Users\home\Downloads\Compressed\pos_0\POS\Point Of Sale\obj\Debug\Sales_and_Inventory_System__Gadgets_Shop_.frmLogin.resources
+C:\Users\home\Downloads\Compressed\pos_0\POS\Point Of Sale\obj\Debug\Sales_and_Inventory_System__Gadgets_Shop_.frmLoginDetails.resources
+C:\Users\home\Downloads\Compressed\pos_0\POS\Point Of Sale\obj\Debug\Sales_and_Inventory_System__Gadgets_Shop_.frmMainMenu.resources
+C:\Users\home\Downloads\Compressed\pos_0\POS\Point Of Sale\obj\Debug\Sales_and_Inventory_System__Gadgets_Shop_.frmProduct.resources
+C:\Users\home\Downloads\Compressed\pos_0\POS\Point Of Sale\obj\Debug\Sales_and_Inventory_System__Gadgets_Shop_.frmProductsRecord2.resources
+C:\Users\home\Downloads\Compressed\pos_0\POS\Point Of Sale\obj\Debug\Sales_and_Inventory_System__Gadgets_Shop_.frmRecoveryPassword.resources
+C:\Users\home\Downloads\Compressed\pos_0\POS\Point Of Sale\obj\Debug\Sales_and_Inventory_System__Gadgets_Shop_.frmRegisteredUsersDetails.resources
+C:\Users\home\Downloads\Compressed\pos_0\POS\Point Of Sale\obj\Debug\Sales_and_Inventory_System__Gadgets_Shop_.frmSales.resources
+C:\Users\home\Downloads\Compressed\pos_0\POS\Point Of Sale\obj\Debug\Sales_and_Inventory_System__Gadgets_Shop_.frmSalesRecord1.resources
+C:\Users\home\Downloads\Compressed\pos_0\POS\Point Of Sale\obj\Debug\Sales_and_Inventory_System__Gadgets_Shop_.frmSalesReport.resources
+C:\Users\home\Downloads\Compressed\pos_0\POS\Point Of Sale\obj\Debug\Sales_and_Inventory_System__Gadgets_Shop_.frmSplash.resources
+C:\Users\home\Downloads\Compressed\pos_0\POS\Point Of Sale\obj\Debug\Sales_and_Inventory_System__Gadgets_Shop_.frmStock.resources
+C:\Users\home\Downloads\Compressed\pos_0\POS\Point Of Sale\obj\Debug\Sales_and_Inventory_System__Gadgets_Shop_.frmStockRecord1.resources
+C:\Users\home\Downloads\Compressed\pos_0\POS\Point Of Sale\obj\Debug\Sales_and_Inventory_System__Gadgets_Shop_.frmSuppliersReport.resources
+C:\Users\home\Downloads\Compressed\pos_0\POS\Point Of Sale\obj\Debug\Sales_and_Inventory_System__Gadgets_Shop_.frmRegistration.resources
+C:\Users\home\Downloads\Compressed\pos_0\POS\Point Of Sale\obj\Debug\Sales_and_Inventory_System__Gadgets_Shop_.frmCustomerRegistration.resources
+C:\Users\home\Downloads\Compressed\pos_0\POS\Point Of Sale\obj\Debug\Sales_and_Inventory_System__Gadgets_Shop_.Properties.Resources.resources
+C:\Users\home\Downloads\Compressed\pos_0\POS\Point Of Sale\obj\Debug\POS.csproj.GenerateResource.Cache
+H:\Download C# Projects\pos_0\POS\Point Of Sale\bin\Debug\Sales and Inventory System (Gadgets Shop).exe.config
+H:\Download C# Projects\pos_0\POS\Point Of Sale\obj\Debug\Sales and Inventory System (Gadgets Shop).exe
+H:\Download C# Projects\pos_0\POS\Point Of Sale\obj\Debug\Sales and Inventory System (Gadgets Shop).pdb
