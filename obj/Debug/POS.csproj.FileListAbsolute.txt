@@ -157,3 +157,6 @@ C:\Users\home\Downloads\Compressed\pos_0\POS\Point Of Sale\obj\Debug\POS.csproj.
 H:\Download C# Projects\pos_0\POS\Point Of Sale\bin\Debug\Sales and Inventory System (Gadgets Shop).exe.config
 H:\Download C# Projects\pos_0\POS\Point Of Sale\obj\Debug\Sales and Inventory System (Gadgets Shop).exe
 H:\Download C# Projects\pos_0\POS\Point Of Sale\obj\Debug\Sales and Inventory System (Gadgets Shop).pdb
+E:\GitDemo\CSharp\bin\Debug\Sales and Inventory System (Gadgets Shop).exe.config
+E:\GitDemo\CSharp\obj\Debug\Sales and Inventory System (Gadgets Shop).exe
+E:\GitDemo\CSharp\obj\Debug\Sales and Inventory System (Gadgets Shop).pdb
